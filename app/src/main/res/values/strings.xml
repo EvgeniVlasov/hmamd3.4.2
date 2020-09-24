@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Hmand3.3.2ru_en</string>
+    <string-array name="spinnerLang">
+    <item>Русский</item>
+    <item>Английский</item>
+    </string-array>
+    <string-array name="spinnerMargin">
+        <item>Средние</item>
+        <item>Мелькие</item>
+        <item>Большие</item>
+    </string-array>
+    <string name="ButtonOk">Принять</string>
+    <string name="txtView">Потрясающие новости
+Тем временем, Илон Маск преподал эйчар-урок, как хантить лучших инженеров со всего мира и представил долгожданный проект Neuralink.</string>
+</resources>
